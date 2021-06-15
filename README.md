@@ -356,3 +356,15 @@ The following attributes are exported:
 * `type` - The type of the record
 * `ttl` - The TTL of the record
 
+# Changelog
+
+## 0.1.0 (June 15, 2021)
+
+FEATURES:
+* Updated module vendor and created `darwin` release
+
+ENHANCEMENTS:
+
+BUG FIXES:
+
+---
