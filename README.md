@@ -358,6 +358,17 @@ The following attributes are exported:
 
 # Changelog
 
+## 0.1.1 (June 15, 2021)
+
+FEATURES:
+
+ENHANCEMENTS:
+
+BUG FIXES:
+* Fix .gitignore ecluded .exe
+
+---
+
 ## 0.1.0 (June 15, 2021)
 
 FEATURES:
