@@ -1,12 +1,12 @@
 project_name: terraform-provider-infoblox
 release:
   github:
-    owner: elongstreet88
+    owner: Dairy-Farmers-of-America
     name: terraform-provider-infoblox
   name_template: '{{.Tag}}'
 milestones:
 - repo:
-    owner: elongstreet88
+    owner: Dairy-Farmers-of-America
     name: terraform-provider-infoblox
   name_template: '{{ .Tag }}'
 scoop:
